@@ -1,5 +1,5 @@
 - 👋 Hi, I’m CHENJIAXI
-- 👀 I’m interested in Python/
+- 👀 I’m interested in Python/K8s
 - 🌱 I’m currently learning Go
 
 
