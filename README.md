@@ -1,6 +1,6 @@
 - 👋 Hi, I’m CHENJIAXI
-- 👀 I’m interested in Python/Go/K8s
-- 🌱 I’m currently learning Istio
+- 👀 I’m interested in Python/Go. 
+- 🌱 I’m currently reading DDIA book.
 
 
 <!---
