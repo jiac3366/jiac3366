@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chase Chen
-- 👀 I’m interested in Python. 
-- 🌱 I’m currently reading AutoML, K8s.
+- 👀 I’m interested in Python/Develops/ML. 
+- 🌱 I’m currently reading DDIA, learning AutoML, K8s.
 
 
 <!---
