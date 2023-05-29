@@ -1,6 +1,6 @@
-- 👋 Hi, I’m CHENJIAXI
-- 👀 I’m interested in Python/Go. 
-- 🌱 I’m currently reading DDIA book.
+- 👋 Hi, I’m Chase Chen
+- 👀 I’m interested in Python. 
+- 🌱 I’m currently reading AutoML, K8s.
 
 
 <!---
