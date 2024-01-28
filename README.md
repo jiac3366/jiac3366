@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Chase Chen
-- 👀 I’m interested in Python/Develops/ML. 
-- 🌱 I’m currently reading DDIA, learning AutoML, K8s.
+- 👋 Hi, I’m Chase
+- I’m focusing on Python/Golang Backend Dev.
+- Also be interested in AI training schedule platform.
 
 
 <!---
