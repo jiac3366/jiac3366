@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chase
 - I’m focusing on Python/Golang Backend Dev.
-- Also be interested in AI training schedule platform.
+- Also be interested in crypto trading platform.
 
 
 <!---
